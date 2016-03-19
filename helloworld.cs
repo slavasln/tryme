@@ -6,6 +6,7 @@ namespace tryme
     {
         public static Main() 
         {
+            // added comment
             Console.WriteLine("Hello World");
         } 
     }
